@@ -1,0 +1,7 @@
+[GIN-TEMP]2021/04/26 - 14:45:18.632	[34minfo[0m	/Users/jianxiyan/home/练习/go/go-project-mune/src/github.com/gin-temp/initialize/gorm.go:30	register table success
+[GIN-TEMP]2021/04/26 - 14:45:18.633	[34minfo[0m	/Users/jianxiyan/home/练习/go/go-project-mune/src/github.com/gin-temp/initialize/router.go:21	use middleware logger
+[GIN-TEMP]2021/04/26 - 14:45:18.633	[34minfo[0m	/Users/jianxiyan/home/练习/go/go-project-mune/src/github.com/gin-temp/initialize/router.go:24	use middleware cors
+[GIN-TEMP]2021/04/26 - 14:45:18.633	[34minfo[0m	/Users/jianxiyan/home/练习/go/go-project-mune/src/github.com/gin-temp/initialize/router.go:26	register swagger handler
+[GIN-TEMP]2021/04/26 - 14:45:18.633	[34minfo[0m	/Users/jianxiyan/home/练习/go/go-project-mune/src/github.com/gin-temp/initialize/router.go:37	router register success
+[GIN-TEMP]2021/04/26 - 14:45:18.633	[34minfo[0m	/Users/jianxiyan/home/练习/go/go-project-mune/src/github.com/gin-temp/core/server.go:31	server run success on 	{"address": ":8888"}
+[GIN-TEMP]2021/04/26 - 14:59:21.933	[31merror[0m	/Users/jianxiyan/home/练习/go/go-project-mune/src/github.com/gin-temp/core/server.go:39	accept tcp [::]:8888: use of closed network connection
